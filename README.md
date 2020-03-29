@@ -14,6 +14,8 @@ TEMPLATE OF EST SIDI BENNOUR
 ![presentation](https://user-images.githubusercontent.com/59529119/77862894-43c43300-7216-11ea-9861-4f0cb1f9740b.jpeg)
 # FILIERE:
 ![filiere](https://user-images.githubusercontent.com/59529119/77862988-f5636400-7216-11ea-811a-c4279d263b82.jpeg)
+# RECLAMATIONS:
+![reclmation](https://user-images.githubusercontent.com/59529119/77863858-5726cc80-721d-11ea-873b-2df5060a34a4.jpeg)
 # REMERCIEMENT:
 Nous tenons à remercier monsieur Yousef Baddi pour ce travail qui nous a aidé à améliorer et enrechir notre connaissance et compétences, merci infiniment.
 # DESIGNED BY:

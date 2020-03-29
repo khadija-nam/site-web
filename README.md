@@ -10,7 +10,9 @@ TEMPLATE OF EST SIDI BENNOUR
 ![home](https://user-images.githubusercontent.com/59529119/77862389-f8f4ec00-7212-11ea-9afa-aed67a10db01.jpeg)
 # PLANNING:
 ![emploi](https://user-images.githubusercontent.com/59529119/77862310-871ca280-7212-11ea-9246-b418be40ce63.jpeg)
-# PLANNING:
+# PRESENTATION:
+![presentation](https://user-images.githubusercontent.com/59529119/77862894-43c43300-7216-11ea-9861-4f0cb1f9740b.jpeg)
+# REMERCIEMENT:
 Nous tenons à remercier monsieur Yousef Baddi pour ce travail qui nous a aidé à améliorer et enrechir notre connaissance et compétences, merci infiniment.
 # DESIGNED BY:
 HAJAR ACHOUJ & KAHDIJA NAM
